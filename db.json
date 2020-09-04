@@ -1,0 +1,403 @@
+{
+  "caroussel": [{
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/slider.jpg",
+      "alt": "your path is iluminated by a road map of stars"
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/images2.jpg",
+      "alt": "Welco,e the horoscope web site"
+    }
+  ],
+
+  "listasignosh": [{
+      "id": 1,
+      "title": "Aries",
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/icon1.png",
+      "alt": "image sign Aries",
+      "namesign": "Aries",
+      "datasign": "March 21",
+      "singleimg": "http://www.wagneramos.com.br/teste/assets-horoscope/forecast-1.jpg",
+      "titlefeaturelarge": "Large",
+      "descfeaturelarge": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturellove": "Love",
+      "descfeaturelove": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturehealth": "Health",
+      "descfeaturehealth": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturecareer": "Career",
+      "descfeaturecareer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 2,
+      "title": "Taurus",
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/icon2.png",
+      "alt": "image sign Taurus",
+      "namesign": "Taurus",
+      "datasign": "April 21",
+      "singleimg": "http://www.wagneramos.com.br/teste/assets-horoscope/forecast-2.jpg",
+      "titlefeaturelarge": "Large",
+      "descfeaturelarge": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturellove": "Love",
+      "descfeaturelove": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturehealth": "Health",
+      "descfeaturehealth": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturecareer": "Career",
+      "descfeaturecareer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 3,
+      "title": "Gemini",
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/icon3.png",
+      "alt": "image sign Gemini",
+      "namesign": "Gemini",
+      "datasign": "May 21",
+      "singleimg": "http://www.wagneramos.com.br/teste/assets-horoscope/forecast-3.jpg",
+      "titlefeaturelarge": "Large",
+      "descfeaturelarge": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturellove": "Love",
+      "descfeaturelove": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturehealth": "Health",
+      "descfeaturehealth": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturecareer": "Career",
+      "descfeaturecareer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "title": "Cancer",
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/icon4.png",
+      "alt": "image sign Cancer",
+      "namesign": "Cancer",
+      "datasign": "June 21",
+      "singleimg": "http://www.wagneramos.com.br/teste/assets-horoscope/forecast-4.jpg",
+      "titlefeaturelarge": "Large",
+      "descfeaturelarge": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturellove": "Love",
+      "descfeaturelove": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturehealth": "Health",
+      "descfeaturehealth": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturecareer": "Career",
+      "descfeaturecareer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "title": "Leo",
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/icon5.png",
+      "alt": "image sign Leo",
+      "namesign": "Leo",
+      "datasign": "July 23",
+      "singleimg": "http://www.wagneramos.com.br/teste/assets-horoscope/forecast-5.jpg",
+      "titlefeaturelarge": "Large",
+      "descfeaturelarge": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturellove": "Love",
+      "descfeaturelove": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturehealth": "Health",
+      "descfeaturehealth": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturecareer": "Career",
+      "descfeaturecareer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "title": "Virgo",
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/icon6.png",
+      "alt": "image sign Virgo",
+      "namesign": "Virgo",
+      "datasign": "August 23",
+      "singleimg": "http://www.wagneramos.com.br/teste/assets-horoscope/forecast-6.jpg",
+      "titlefeaturelarge": "Large",
+      "descfeaturelarge": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturellove": "Love",
+      "descfeaturelove": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturehealth": "Health",
+      "descfeaturehealth": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturecareer": "Career",
+      "descfeaturecareer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "title": "Libra",
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/icon7.png",
+      "alt": "image sign Libra",
+      "namesign": "Libra",
+      "datasign": "September 23",
+      "singleimg": "http://www.wagneramos.com.br/teste/assets-horoscope/forecast-7.jpg",
+      "titlefeaturelarge": "Large",
+      "descfeaturelarge": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturellove": "Love",
+      "descfeaturelove": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturehealth": "Health",
+      "descfeaturehealth": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturecareer": "Career",
+      "descfeaturecareer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "title": "Scorpio",
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/icon8.png",
+      "alt": "image sign Scorpio",
+      "namesign": "Scorpio",
+      "datasign": "October 23",
+      "singleimg": "http://www.wagneramos.com.br/teste/assets-horoscope/forecast-8.jpg",
+      "titlefeaturelarge": "Large",
+      "descfeaturelarge": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturellove": "Love",
+      "descfeaturelove": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturehealth": "Health",
+      "descfeaturehealth": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturecareer": "Career",
+      "descfeaturecareer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "title": "Sagittarus",
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/icon9.png",
+      "alt": "image sign Sagittarus",
+      "namesign": "Sagittarus",
+      "datasign": "November 22",
+      "singleimg": "http://www.wagneramos.com.br/teste/assets-horoscope/forecast-9.jpg",
+      "titlefeaturelarge": "Large",
+      "descfeaturelarge": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturellove": "Love",
+      "descfeaturelove": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturehealth": "Health",
+      "descfeaturehealth": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturecareer": "Career",
+      "descfeaturecareer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "title": "Capricorn",
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/icon10.png",
+      "alt": "image sign Capricorn",
+      "namesign": "Capricorn",
+      "datasign": "December 22",
+      "singleimg": "http://www.wagneramos.com.br/teste/assets-horoscope/forecast-10.jpg",
+      "titlefeaturelarge": "Large",
+      "descfeaturelarge": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturellove": "Love",
+      "descfeaturelove": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturehealth": "Health",
+      "descfeaturehealth": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturecareer": "Career",
+      "descfeaturecareer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "title": "Aquarius",
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/icon11.png",
+      "alt": "image sign Aquarius",
+      "namesign": "Aquarius",
+      "datasign": "Januar 21",
+      "singleimg": "http://www.wagneramos.com.br/teste/assets-horoscope/forecast-11.jpg",
+      "titlefeaturelarge": "Large",
+      "descfeaturelarge": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturellove": "Love",
+      "descfeaturelove": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturehealth": "Health",
+      "descfeaturehealth": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturecareer": "Career",
+      "descfeaturecareer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "title": "Pisces",
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/icon12.png",
+      "alt": "image sign Pisces",
+      "namesign": "Pisces",
+      "datasign": "Febryuary 19",
+      "singleimg": "http://www.wagneramos.com.br/teste/assets-horoscope/forecast-12.jpg",
+      "titlefeaturelarge": "Large",
+      "descfeaturelarge": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturellove": "Love",
+      "descfeaturelove": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturehealth": "Health",
+      "descfeaturehealth": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "titlefeaturecareer": "Career",
+      "descfeaturecareer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  ],
+
+  "headproductsh": [{
+      "title": "Our Products"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text "
+    }
+  ],
+
+  "productlisth": [{
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/products_01.png",
+      "alt": "image Natural Mineral Stone ",
+      "title": "Natural Mineral Stone",
+      "oldprice": "$125.00",
+      "actualprice": "$110.00"
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/products_02.png",
+      "alt": "image Natural Agate ",
+      "title": "Natural Agate",
+      "oldprice": "$120.00",
+      "actualprice": "$105.00"
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/products_03.png",
+      "alt": "image Rose Quartz",
+      "title": "Rose Quartz",
+      "oldprice": "$130.00",
+      "actualprice": "$125.00"
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/products_07.png",
+      "alt": "image Titanium Quartz",
+      "title": "Titanium Quartz",
+      "oldprice": "$135.00",
+      "actualprice": "$120.00"
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/products_08.png",
+      "alt": "image Alexandrita",
+      "title": "Alexandrita",
+      "oldprice": "$175.00",
+      "actualprice": "$160.00"
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/products_09.png",
+      "alt": "image Ambar",
+      "title": "Ambar",
+      "oldprice": "$165.00",
+      "actualprice": "$155.00"
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/products_11.png",
+      "alt": "image Emerald",
+      "title": "Emerald",
+      "oldprice": "$250.00",
+      "actualprice": "$230.00"
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/products_16.png",
+      "alt": "image Euclásio",
+      "title": "Euclásio",
+      "oldprice": "$200.00",
+      "actualprice": "$185.00"
+    }
+  ],
+
+  "headlineh": [{
+      "title": "Our Astrologers Work for You"
+    },
+    {
+      "description": "Our astrological team delivers daily and monthly horoscopes for all readers of our website visitors.Recognized as the best esoteric and astrology online in the USA. Every day we publish fresh horoscopes, articles by and for professional astrologers, personalized predictions, tarot readings, numerology and Chinese astrology horoscopes and much more.Our horoscopes can help you find a proper approach to solving all daily problems and achieving happiness in your life. Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text "
+    }
+  ],
+
+  "headservicesh": [{
+      "title": "Our Products"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text "
+    }
+  ],
+  "servicelisth": [{
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/services1.png",
+      "alt": "image Natural Mineral Stone ",
+      "title": "Natural Mineral Stone",
+      "oldprice": "$125.00",
+      "actualprice": "$110.00",
+      "fullimage": ""
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/services2.png",
+      "alt": "image Natural Agate ",
+      "title": "Natural Agate",
+      "oldprice": "$120.00",
+      "actualprice": "$105.00"
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/services3.png",
+      "alt": "image Rose Quartz",
+      "title": "Rose Quartz",
+      "oldprice": "$130.00",
+      "actualprice": "$125.00"
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/services4.png",
+      "alt": "image Titanium Quartz",
+      "title": "Titanium Quartz",
+      "oldprice": "$135.00",
+      "actualprice": "$120.00"
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/services5.png",
+      "alt": "image Alexandrita",
+      "title": "Alexandrita",
+      "oldprice": "$175.00",
+      "actualprice": "$160.00"
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/services6.png",
+      "alt": "image Ambar",
+      "title": "Ambar",
+      "oldprice": "$165.00",
+      "actualprice": "$155.00"
+    }
+  ],
+  "testemonials": [{
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/testemonials-1.jpg",
+      "alt": "Joanna Dark",
+      "title": "Joanna Dark",
+      "subtitle": "Design manager",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Lorem Ipsum has been the industry's standard dummy text ever since"
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/testemonials-2.jpg",
+      "alt": "Marlene",
+      "title": "Marlene",
+      "subtitle": " Count Executive",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Lorem Ipsum has been the industry's standard dummy text ever since"
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/testemonials-3.jpg",
+      "alt": "John Mclaine",
+      "title": "John Mclaine",
+      "subtitle": "Businessman",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/testemonials-4.jpg",
+      "alt": "Mary Jane",
+      "title": "Mary Jane",
+      "subtitle": "Interiors Design",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Lorem Ipsum has been the industry's standard dummy text ever since"
+    }
+  ],
+
+  "headblogh": [{
+      "title": "Latest Posts"
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+    }
+  ],
+
+  "listblogh": [{
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/blog-1.jpg",
+      "alt": "imagem Blog",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration."
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/blog-2.jpg",
+      "alt": "Marlene",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration."
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/blog-3.jpg",
+      "alt": "John Mclaine",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration."
+    }
+  ],
+  "listreview": [{
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/member.png",
+      "alt": "image review member",
+      "title": "John Malkovich",
+      "time": "April 27, 2019",
+      "description": "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ut libero malesuada feugiat. Proin eget tortor risus. Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "img": "http://www.wagneramos.com.br/teste/assets-horoscope/member2.png",
+      "alt": "image review member",
+      "title": "Juliana Moore",
+      "time": "May 02, 2020",
+      "description": "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ut libero malesuada feugiat. Proin eget tortor risus. Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+  ]
+}
